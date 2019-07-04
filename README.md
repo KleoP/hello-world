@@ -1,2 +1,2 @@
 # hello-world
-GitHub training 
+## GitHub training for K. Leo Pullin
